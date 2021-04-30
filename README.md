@@ -8,5 +8,5 @@ It helps me a lot to understand the core steps to do an end-to-end Machine Learn
 
 ## __Resources__:
 
-https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+Introduction to Machine Learning with Python Book - Andreas C. Müller & Sarah Guido
 
